@@ -1,5 +1,5 @@
 # generic-markov-chain-and-tweet-generator
-Generic Markov Chain, used for generating pseudorandom sequences from input, and an example program using it.
+Generic Markov Chain, used for generating pseudorandom sequences from input, and an example program that uses it.
 
 ## tweets_generator usage
 Run the program with the following arguments:
